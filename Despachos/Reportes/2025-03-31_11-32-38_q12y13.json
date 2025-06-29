@@ -1,0 +1,278 @@
+{
+    "servicio": "q12y13",
+    "fecha": "2025-03-31",
+    "resultados": [
+        {
+            "nne": "6515-03-901-8861",
+            "item": "AGUJA ANESTESIA ESTIMULACION PERIFERICA 50 mm",
+            "pedidos": "2.0",
+            "despachados": "2.0",
+            "estado": "OK",
+            "stock": "100"
+        },
+        {
+            "nne": "6515-03-901-8859",
+            "item": "AGUJA ANESTESIA ESTIMULACION PERIFERICA 100 mm",
+            "pedidos": "2.0",
+            "despachados": "2.0",
+            "estado": "OK",
+            "stock": "100"
+        },
+        {
+            "nne": "6515-29-506-7854",
+            "item": "AGUJA ANESTESIA RAQUIDEA Nº 25",
+            "pedidos": "10.0",
+            "despachados": "4.0",
+            "estado": "OK",
+            "stock": "5080"
+        },
+        {
+            "nne": "6515-29-506-1727",
+            "item": "AGUJA ANESTESIA RAQUIDEA Nº 26",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "68"
+        },
+        {
+            "nne": "9065486",
+            "item": "ALCOHOL 70º 1000 ml",
+            "pedidos": "6.0",
+            "despachados": "6.0",
+            "estado": "OK",
+            "stock": "219"
+        },
+        {
+            "nne": "6532-29-506-4071",
+            "item": "BARBIJO DESCARTABLE",
+            "pedidos": "200.0",
+            "despachados": "200.0",
+            "estado": "OK",
+            "stock": "17865"
+        },
+        {
+            "nne": "6515-29-502-1984",
+            "item": "BOLSA COLECTORA DE ORINA PARA ADULTO 2 L",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "389"
+        },
+        {
+            "nne": "6532-29-909-3482",
+            "item": "BOTA DESCARTABLE",
+            "pedidos": "100.0",
+            "despachados": "100.0",
+            "estado": "OK",
+            "stock": "8125"
+        },
+        {
+            "nne": "6532-29-506-4057",
+            "item": "CAMISOLIN DESCARTABLE COMUN",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "8490"
+        },
+        {
+            "nne": "6515-29-501-9448",
+            "item": "CATETER ENDOVENOSO 18G",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "2436"
+        },
+        {
+            "nne": "6515-29-501-9449",
+            "item": "CATETER ENDOVENOSO 20G",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "1685"
+        },
+        {
+            "nne": "6515-29-505-9314",
+            "item": "CEPILLO PARA CIRUGIA (CON ESPONJA)",
+            "pedidos": "100.0",
+            "despachados": "50.0",
+            "estado": "OK",
+            "stock": "945"
+        },
+        {
+            "nne": "6515-29-505-1383",
+            "item": "CIRCUITO PARA ANESTESIA",
+            "pedidos": "5.0",
+            "despachados": "5.0",
+            "estado": "OK",
+            "stock": "6"
+        },
+        {
+            "nne": "6532-29-506-3996",
+            "item": "COFIA DESCARTABLE",
+            "pedidos": "100.0",
+            "despachados": "100.0",
+            "estado": "OK",
+            "stock": "7830"
+        },
+        {
+            "nne": "6515-29-502-2358",
+            "item": "ELECTRODO ADULTO",
+            "pedidos": "100.0",
+            "despachados": "100.0",
+            "estado": "OK",
+            "stock": "4900"
+        },
+        {
+            "nne": "6515-29-503-9345",
+            "item": "EQUIPO ADM SOLUCIONES PARENTERALES (con macrogotero) v-14",
+            "pedidos": "50.0",
+            "despachados": "50.0",
+            "estado": "OK",
+            "stock": "2625"
+        },
+        {
+            "nne": "6515-29-500-0605",
+            "item": "GUANTE DE CIRUGIA Nro. 6 1/2",
+            "pedidos": "150.0",
+            "despachados": "50.0",
+            "estado": "OK",
+            "stock": "450"
+        },
+        {
+            "nne": "6515-29-500-0608",
+            "item": "GUANTE DE CIRUGIA Nro. 8",
+            "pedidos": "50.0",
+            "despachados": "50.0",
+            "estado": "OK",
+            "stock": "310"
+        },
+        {
+            "nne": "6515-03-503-5333",
+            "item": "GUIA P/BOMBA INFUSION (SpaceLine)",
+            "pedidos": "20.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "780"
+        },
+        {
+            "nne": "6515-29-504-0436",
+            "item": "INHALADOR DE OXIGENO ADULTO (BIGOTERA) Plástico (k-27)",
+            "pedidos": "15.0",
+            "despachados": "15.0",
+            "estado": "OK",
+            "stock": "287"
+        },
+        {
+            "nne": "6515-29-501-8658",
+            "item": "JERINGA HIPODERMICA SIN AGUJA 10 ml",
+            "pedidos": "100.0",
+            "despachados": "100.0",
+            "estado": "OK",
+            "stock": "14900"
+        },
+        {
+            "nne": "6515-29-502-2460",
+            "item": "JERINGA HIPODERMICA SIN AGUJA 20 ml",
+            "pedidos": "100.0",
+            "despachados": "100.0",
+            "estado": "OK",
+            "stock": "4801"
+        },
+        {
+            "nne": "6515-29-506-9309",
+            "item": "LLAVE DE 3 VIAS Con prolongador",
+            "pedidos": "15.0",
+            "despachados": "15.0",
+            "estado": "OK",
+            "stock": "1749"
+        },
+        {
+            "nne": "6515-29-501-9387",
+            "item": "LLAVE DE 3 VIAS Sin prolongador",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "1089"
+        },
+        {
+            "nne": "6515-29-502-4290",
+            "item": "MANOPLA",
+            "pedidos": "1200.0",
+            "despachados": "1000.0",
+            "estado": "OK",
+            "stock": "8390"
+        },
+        {
+            "nne": "6515-03-504-8836",
+            "item": "PLACA PARA PACIENTE PARA ELECTROBISTURI (plancha)",
+            "pedidos": "10.0",
+            "despachados": "5.0",
+            "estado": "OK",
+            "stock": "140"
+        },
+        {
+            "nne": "6515-29-506-9340",
+            "item": "SONDA VESICAL FOLEY DOBLE VIA (Latex, pta recta) 22 Ch",
+            "pedidos": "10.0",
+            "despachados": "5.0",
+            "estado": "OK",
+            "stock": "50"
+        },
+        {
+            "nne": "6515-29-503-3326",
+            "item": "TRANSDUCTOR DE PRESION set TAM",
+            "pedidos": "1.0",
+            "despachados": "1.0",
+            "estado": "OK",
+            "stock": "132"
+        },
+        {
+            "nne": "6515-29-502-2858",
+            "item": "TUBO ENDOTRAQUEAL ESPIRALADO CON BALON 32 Fr (8.0)",
+            "pedidos": "5.0",
+            "despachados": "1.0",
+            "estado": "OK",
+            "stock": "1"
+        },
+        {
+            "nne": "6510-29-000-6623",
+            "item": "VENDA DE TEJIDO DE PUNTO ENTRELAZADO (CAMBRIC) 5 cm",
+            "pedidos": "10.0",
+            "despachados": "10.0",
+            "estado": "OK",
+            "stock": "151"
+        },
+        {
+            "nne": "6515-29-503-8322",
+            "item": "TUBO ENDOTRAQUEAL ESPIRALADO CON BALON 28 Fr (7.0)",
+            "pedidos": "5.0",
+            "despachados": "0",
+            "estado": "DEMANDA INSATISFECHA",
+            "stock": "2"
+        },
+        {
+            "nne": "6515-29-501-9430",
+            "item": "TUBULADURA CON CANULA PARA ASPIRACION k-67",
+            "pedidos": "10.0",
+            "despachados": "0",
+            "estado": "DEMANDA INSATISFECHA",
+            "stock": "20"
+        },
+        {
+            "nne": "6515-29-500-0606",
+            "item": "GUANTE DE CIRUGIA Nro. 7",
+            "pedidos": "150.0",
+            "despachados": "50.0",
+            "estado": "STOCK INSUFICIENTE",
+            "stock": "20"
+        },
+        {
+            "nne": "6515-29-503-8323",
+            "item": "TUBO ENDOTRAQUEAL ESPIRALADO CON BALON 30 Fr (7.5)",
+            "pedidos": "5.0",
+            "despachados": "3.0",
+            "estado": "STOCK INSUFICIENTE",
+            "stock": "1"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "estado": "PENDIENTE",
+        "nne": "6515-29-505-4255",
+        "item": "AEROCAMARA (Común-Puff)",
+        "stock": 0,
+        "remanente": 100
+    },
+    {
+        "estado": "PENDIENTE",
+        "nne": "9065486",
+        "item": "ALCOHOL 70º 1000 ml",
+        "stock": 232,
+        "remanente": 8
+    },
+    {
+        "estado": "PENDIENTE",
+        "nne": "6510-01-900-7757",
+        "item": "CINTA ADHESIVA - OXIDO DE ZINC (Chica)",
+        "stock": 1179,
+        "remanente": 2
+    }
+]
