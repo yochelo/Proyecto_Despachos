@@ -2,6 +2,10 @@
 
 Este módulo automatiza la carga de insumos médicos en el sistema SIGHEOS a partir de una planilla Excel predefinida. El objetivo es eliminar la necesidad de ingresar manualmente cada ítem, evitando errores comunes y ahorrando tiempo considerable.
 
+# Proyecto Despachos
+
+Automatización del despacho de insumos médicos en el sistema SIGHEOS, con registro y análisis posterior de resultados.
+
 ---
 
 ## 🧠 ¿Qué hace?
@@ -15,6 +19,23 @@ Este módulo automatiza la carga de insumos médicos en el sistema SIGHEOS a par
 
 3. El bot **previene errores humanos comunes**, como duplicaciones o saltos de renglón.
 4. Acelera enormemente el proceso: lo que antes llevaba 20 a 30 minutos (o más), ahora se realiza en aproximadamente 1 minuto.
+
+---
+
+## 🖥️ ¿Qué muestra?
+
+Al finalizar, el bot imprime en consola un resumen con el estado de cada ítem, usando colores para facilitar la interpretación:
+
+- 🟩 **Verde:** ítem despachado correctamente (stock suficiente).
+- 🟨 **Amarillo:** no se entregó nada del ítem (0 de X pedidos).
+- 🟥 **Rojo:** el sistema informó despacho, pero el stock real no era suficiente (error lógico detectado por el bot).
+
+---
+
+## 🗂️ ¿Qué registra?
+
+Además del mensaje en consola, cada ejecución genera un archivo `.json` con todos los datos del despacho: fecha, servicio, insumos pedidos, cantidades entregadas y estado.  
+Estos archivos son luego subidos automáticamente a una carpeta de Google Drive para su análisis y trazabilidad.
 
 ---
 
